@@ -30,8 +30,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'botz'
-global.author = 'wa'
+global.packname = '𝙁𝙄𝙀𝙎𝙏𝘼 𝙈𝙊𝘿𝘿𝙀𝙍 𝘿𝙀𝙑'𝙎 𝙈𝙊𝘿'𝙎'
+global.author = '𝘽𝙐𝘼𝙏𝘼𝙉 𝙁𝙄𝙀𝙎𝙏𝘼 089526350998 𝙎𝘼𝙑𝙀'
 
 global.wm = '© Botz'
 global.wait = '_*tunggu sedang diproses...*_'
